@@ -15,12 +15,23 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
+{% assign advisors = site.staffers | where: 'role', 'Advisors' %}
+{% assign num_advisors = advisors | size %}
+{% if num_advisors != 0 %}
 ## Teaching Assistants
 
-{% for staffer in teaching_assistants %}
+{% for staffer in advisors %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+{% assign pets = site.staffers | where: 'role', 'Pets' %}
+{% assign num_pets = pets | size %}
+{% if num_pets != 0 %}
+## Teaching Assistants
+
+{% for staffer in pets %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
