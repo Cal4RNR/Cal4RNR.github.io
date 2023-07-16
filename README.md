@@ -10,10 +10,9 @@ seo:
 
 # Peer Rising Summer 2023
 
-Welcome! This is the landing page for our official website for the course. You will find all important information on the left navigation bar, or click the links below.
+Welcome! This is the landing page for our official website for the course. You will find all important information on the left navigation bar, or click the links below. Our announcements will also be posted on this page, updated daily.
 
 - [Course Calendar](calendar.md),
-- [Announcements](announcements.md),
 - [Staff](staff.md) page,
 - [schedule](schedule.md).
 
