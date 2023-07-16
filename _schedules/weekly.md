@@ -36,6 +36,7 @@ schedule:
         end: 2:50 PM
         location: Mac Lab
   - name: Tuesday
+      events:
       - name: Python Lists
         start: 9:00 AM
         end: 9:50 AM
@@ -57,6 +58,7 @@ schedule:
         end: 2:50 PM
         location: Mac Lab
   - name: Wednesday
+      events:
       - name: Python Functions
         start: 9:00 AM
         end: 9:50 AM
@@ -78,6 +80,7 @@ schedule:
         end: 2:50 PM
         location: Mac Lab
   - name: Thursday
+      events:
       - name: Python Environments
         start: 9:00 AM
         end: 9:50 AM
