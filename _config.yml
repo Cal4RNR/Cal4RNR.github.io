@@ -28,7 +28,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
+  Online Python Interpreter:
     - 'https://code.cs61a.org'
   Python Tutor:
     - 'https://pythontutor.com/'
