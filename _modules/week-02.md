@@ -1,5 +1,5 @@
 ---
-title: Basic Data Structures
+title: Day 2 Python Lists
 ---
 
 Oct 5
