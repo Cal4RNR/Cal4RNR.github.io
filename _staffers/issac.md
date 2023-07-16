@@ -8,4 +8,4 @@ meta:
   Office Hours: 12:30 every day
 ---
 
-Say high to Dr. Hanna!
+Tell Dr Hanna i said hi
