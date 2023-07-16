@@ -13,7 +13,7 @@ timeline:
   - '2:00 PM'
   - '2:30 PM'
 schedule:
-- name: Monday
+  - name: Monday
     events:
       - name: Welcome Orientation
         start: 9:00 AM
@@ -57,7 +57,7 @@ schedule:
         start: 2:00 PM
         end: 2:50 PM
         location: Mac Lab
-- name: Wednesday
+  - name: Wednesday
       events:
       - name: Python Functions
         start: 9:00 AM
