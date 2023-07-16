@@ -18,7 +18,7 @@ tagline: Peer Rising Summer 2023
 description: Landing page for Peer Rising computer science exploration program for summer 2023.
 author: Issac Chen
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://cal4rnr.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://peerrising.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
