@@ -1,5 +1,5 @@
 ---
-title: Day 1: Orientation, Python Basics
+title: Day 1 Orientation, Python Basics
 ---
 
 Sep 28
