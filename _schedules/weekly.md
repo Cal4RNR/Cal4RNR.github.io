@@ -20,7 +20,7 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Welcome Orientation
+      - name: Orientation
         start: 9:00 AM
         end: 9:50 AM
         location: Mac Lab
@@ -28,11 +28,11 @@ schedule:
         start: 10:00 AM
         end: 10:50 AM
         location: Mac Lab
-      - name: Introduction to Computer Science & Python Basics
+      - name: Python Basics I
         start: 11:00 AM
         end: 11:50 AM
         location: Mac Lab
-      - name: Conditional and Boolean Statements
+      - name: Python Basics II
         start: 1:00 PM
         end: 1:50 PM
         location: Mac Lab
@@ -46,7 +46,7 @@ schedule:
         start: 9:00 AM
         end: 9:50 AM
         location: Mac Lab
-      - name: Iteration and Loops
+      - name: Iteration
         start: 10:00 AM
         end: 10:50 AM
         location: Mac Lab
@@ -54,11 +54,11 @@ schedule:
         start: 11:00 AM
         end: 11:50 AM
         location: Mac Lab
-      - name: Introduction to Artificial Intelligence
+      - name: AI
         start: 1:00 PM
         end: 1:50 PM
         location: Mac Lab
-      - name: Final Project Introduction
+      - name: Final Project Intro
         start: 2:00 PM
         end: 2:50 PM
         location: Mac Lab
@@ -68,19 +68,19 @@ schedule:
         start: 9:00 AM
         end: 9:50 AM
         location: Mac Lab
-      - name: Debugging I
+      - name: Debugging
         start: 10:00 AM
         end: 10:30 AM
         location: Mac Lab
-      - name: Final Project Group Meeting
+      - name: Project Group Meeting
         start: 10:30 AM
         end: 10:50 AM
         location: Mac Lab
-      - name: Web Development Workshop
+      - name: Web Dev Workshop
         start: 11:00 AM
         end: 11:50 AM
         location: Mac Lab
-      - name: AI Chat Bot Project
+      - name: Chat Bot Project
         start: 1:00 PM
         end: 2:50 PM
         location: Mac Lab
@@ -90,41 +90,41 @@ schedule:
         start: 9:00 AM
         end: 9:50 AM
         location: Mac Lab
-      - name: Breaking Python, Debugging II
+      - name: Breaking Python
         start: 10:00 AM
         end: 10:50 AM
         location: Mac Lab
-      - name: College App / Navigating High School Workshop
+      - name: College Workshop
         start: 11:00 AM
         end: 11:50 AM
-        location: Mac Lab / Student Center
-      - name: Final Project Work Session
+        location: TBA
+      - name: Project Group Meeting
         start: 1:00 PM
         end: 2:50 PM
         location: Mac Lab
-      - name: (Optional Special Topic) Regular Expressions
+      - name: Regular Expressions
         start: 2:00 PM
         end: 2:50 PM
         location: Mac Lab
   - name: Friday
     events:
-      - name: Final Project Work Session
+      - name: Project Group Meeting
         start: 9:00 AM
         end: 10:50 AM
         location: Mac Lab
-      - name: (Optional Special Topic) Data Science
+      - name: Data Science
         start: 10:00 AM
         end: 10:50 AM
         location: Mac Lab
-      - name: CS Exploration Workshop, Instructor Q&A
+      - name: CS Exploration Workshop
         start: 11:00 AM
         end: 11:50 AM
         location: Mac Lab
-      - name: Final Project Work Session
+      - name: Project Group Meeting
         start: 1:00 PM
         end: 1:50 PM
         location: Mac Lab
-      - name: Project Demo, Conclusion
+      - name: Demo, Conclusion
         start: 2:00 PM
         end: 2:50 PM
         location: Mac Lab
