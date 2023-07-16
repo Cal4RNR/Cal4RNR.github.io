@@ -1,9 +1,9 @@
 ---
-name: Really Evil Kevin
-role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+name: Lemon P. Cat
+role: Pet
+email: lemon@emaildoesnotexist.com
+website: http://www.staggeringbeauty.com/
+photo: lemon.jpg
 ---
 
-I like teaching Computer Science!
+Official course pet! We are convinced Lemon is actually proficient in Python, its just his tiny little paws can't type very well.
