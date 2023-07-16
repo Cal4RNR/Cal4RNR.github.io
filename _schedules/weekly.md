@@ -36,27 +36,6 @@ schedule:
         end: 2:50 PM
         location: Mac Lab
   - name: Tuesday
-      events:
-      - name: Python Lists
-        start: 9:00 AM
-        end: 9:50 AM
-        location: Mac Lab
-      - name: Iteration and Loops
-        start: 10:00 AM
-        end: 10:50 AM
-        location: Mac Lab
-      - name: UI/UX Workshop
-        start: 11:00 AM
-        end: 11:50 AM
-        location: Mac Lab
-      - name: Introduction to Artificial Intelligence
-        start: 1:00 PM
-        end: 1:50 PM
-        location: Mac Lab
-      - name: Final Project Introduction
-        start: 2:00 PM
-        end: 2:50 PM
-        location: Mac Lab
   - name: Wednesday
       events:
       - name: Python Functions
