@@ -112,8 +112,8 @@ schedule:
         end: 10:50 AM
         location: Mac Lab
       - name: CS Exploration Workshop, Instructor Q&A
-        start: 11:00 PM
-        end: 11:50 PM
+        start: 11:00 AM
+        end: 11:50 AM
         location: Mac Lab
       - name: Final Project Work Session
         start: 1:00 PM
