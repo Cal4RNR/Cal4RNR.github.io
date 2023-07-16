@@ -1,11 +1,7 @@
 ---
-name: Kevin Lin
+name: Danica Tang
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
-meta:
-  Office Hours: Somewhere on the internet
+email: danicat.com
+website: https://www.linkedin.com/in/danica-t/
+photo: danica.jpg
 ---
-
-[Schedule an appointment](#){: .btn .btn-outline }
