@@ -25,7 +25,7 @@ Say hello to our staff!
 {% endfor %}
 {% endif %}
 
-{% assign pets = site.staffers | where: 'role', 'Pets' %}
+{% assign pets = site.staffers | where: 'role', 'Pet' %}
 {% assign num_pets = pets | size %}
 {% if num_pets != 0 %}
 ## Pets
