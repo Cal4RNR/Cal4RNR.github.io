@@ -1,5 +1,5 @@
 ---
-title: Introduction to Java
+title: Day 1: Orientation, Python Basics
 ---
 
 Sep 28
