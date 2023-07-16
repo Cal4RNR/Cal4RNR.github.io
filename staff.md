@@ -6,7 +6,7 @@ description: A listing of all the course staff members.
 
 # Staff
 
-Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
+Say hello to our staff!
 
 ## Instructors
 
@@ -15,7 +15,7 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 
-{% assign advisors = site.staffers | where: 'role', 'Advisors' %}
+{% assign advisors = site.staffers | where: 'role', 'Advisor' %}
 {% assign num_advisors = advisors | size %}
 {% if num_advisors != 0 %}
 ## Teaching Assistants
