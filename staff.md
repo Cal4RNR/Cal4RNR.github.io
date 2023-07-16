@@ -18,7 +18,7 @@ Say hello to our staff!
 {% assign advisors = site.staffers | where: 'role', 'Advisor' %}
 {% assign num_advisors = advisors | size %}
 {% if num_advisors != 0 %}
-## Teaching Assistants
+## Advisors
 
 {% for staffer in advisors %}
 {{ staffer }}
@@ -28,7 +28,7 @@ Say hello to our staff!
 {% assign pets = site.staffers | where: 'role', 'Pets' %}
 {% assign num_pets = pets | size %}
 {% if num_pets != 0 %}
-## Teaching Assistants
+## Pets
 
 {% for staffer in pets %}
 {{ staffer }}
