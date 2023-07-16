@@ -17,3 +17,11 @@ Welcome! This is the landing page for our official website for the course. You w
 - [Staff](staff.md) page,
 - [schedule](schedule.md).
 
+# Announcements
+
+Announcements are stored in the `_announcements` directory and rendered according to the layout file, `_layouts/announcement.html`.
+
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}
