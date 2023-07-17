@@ -2,22 +2,17 @@
 title: Day 1 Orientation, Python Basics
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+09:00 -- 09:50
+: [Welcome and Orientation](#google.com)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+10:00 -- 10:50
+: Device Setup(google.com)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+11:00 -- 11:50
+: [Python I](#https://docs.google.com/presentation/d/1SWQNLwCb2bEGBhyT1ovWAX7PK8vA6C01oMsnsTGFylI/edit?usp=sharing)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+1:00 -- 1:50
+: [Python II](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+2:00 -- 2:50
+: **Project**{: .label .label-purple }[Madlibs](https://docs.google.com/presentation/d/1SWQNLwCb2bEGBhyT1ovWAX7PK8vA6C01oMsnsTGFylI/edit?usp=sharing)
