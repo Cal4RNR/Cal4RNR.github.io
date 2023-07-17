@@ -1,5 +1,5 @@
 ---
-title: Day 3: Functions, Modularity
+title: Day 3 Functions, Modularity
 ---
 
 09:00 -- 09:50
