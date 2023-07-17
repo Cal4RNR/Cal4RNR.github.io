@@ -1,23 +1,18 @@
 ---
-title: Day 2 Python Lists
+title: Day 2 Advanced Programming
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+09:00 -- 09:50
+: **Class**{: .label .label-blue}[Lists](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+10:00 -- 10:50
+: **Class**{: .label .label-blue}[Iteration, Loops](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+11:00 -- 11:50
+: **Workshop**{: .label .label-red}[User Interface, User Experience](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+1:00 -- 1:50
+: **Class**{: .label .label-blue}[Artificial Intelligence](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+2:00 -- 2:50
+: **Project**{: .label .label-purple}[Final Project Introduction](#)
