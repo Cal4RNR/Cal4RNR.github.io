@@ -3,7 +3,7 @@ title: Day 1 Orientation, Python Basics
 ---
 
 09:00 -- 09:50
-: [Welcome and Orientation]([https://google.com](https://docs.google.com/presentation/d/1MWlMozjFpyJNqmy1I43kayd5Su2bZMF9fNtFAP4VUn8/edit?usp=sharing))
+: [Welcome and Orientation](https://docs.google.com/presentation/d/1MWlMozjFpyJNqmy1I43kayd5Su2bZMF9fNtFAP4VUn8/edit?usp=sharing)
 
 10:00 -- 10:50
 : [Device Setup](https://docs.google.com/presentation/d/1tqkfJjPlR_uVrO7nAT8JfKviWNWDsyQW7E-XOQ3RZco/edit?usp=sharing)
