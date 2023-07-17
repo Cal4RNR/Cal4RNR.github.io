@@ -6,7 +6,7 @@ title: Day 1 Orientation, Python Basics
 : **Welcome**{: .label .label-red }[Orientation](https://docs.google.com/presentation/d/1MWlMozjFpyJNqmy1I43kayd5Su2bZMF9fNtFAP4VUn8/edit?usp=sharing)
 
 10:00 -- 10:50
-: [Device Setup](https://docs.google.com/presentation/d/1tqkfJjPlR_uVrO7nAT8JfKviWNWDsyQW7E-XOQ3RZco/edit?usp=sharing)
+: **Class**{: .label .label-blue }[Device Setup](https://docs.google.com/presentation/d/1tqkfJjPlR_uVrO7nAT8JfKviWNWDsyQW7E-XOQ3RZco/edit?usp=sharing)
 
 11:00 -- 11:50
 : **Class**{: .label .label-blue }[Python I](https://docs.google.com/presentation/d/1bHoM_G46DitYOkpZt7IlybbndaB7XLSPArf-fq2pFf0/edit?usp=sharing)
