@@ -15,4 +15,5 @@ title: Day 1 Orientation, Python Basics
 : **Class**{: .label .label-blue }[Python II](https://docs.google.com/presentation/d/1bHoM_G46DitYOkpZt7IlybbndaB7XLSPArf-fq2pFf0/edit?usp=sharing)
 
 2:00 -- 2:50
-: **Project**{: .label .label-purple }[Madlibs](https://docs.google.com/presentation/d/1SWQNLwCb2bEGBhyT1ovWAX7PK8vA6C01oMsnsTGFylI/edit?usp=sharing)
+: **Project**{: .label .label-purple }[Mad libs](https://docs.google.com/presentation/d/1SWQNLwCb2bEGBhyT1ovWAX7PK8vA6C01oMsnsTGFylI/edit?usp=sharing)
+: [Skeleton Code](https://drive.google.com/drive/folders/1WNbjUPLURmtAu69en3Xz10-NykNARXUE?usp=sharing)
