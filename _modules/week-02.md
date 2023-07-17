@@ -1,5 +1,5 @@
 ---
-title: Day 2 Advanced Programming
+title: Day 2 Lists, Iterations, AI
 ---
 
 09:00 -- 09:50
