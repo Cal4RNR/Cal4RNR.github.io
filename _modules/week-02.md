@@ -15,4 +15,4 @@ title: Day 2 Lists, Iterations, AI
 : **Class**{: .label .label-blue}[Artificial Intelligence](https://docs.google.com/presentation/d/1kVDgkbrJPdgM0mqvc3uWj1d9vmIEFmtYhtmPlbW4_5c/edit?usp=sharing)
 
 2:00 -- 2:50
-: **Project**{: .label .label-purple}[Final Project Introduction](#)
+: **Project**{: .label .label-purple}[Final Project Introduction](https://docs.google.com/presentation/d/1QksO-xDdukDIhqINkI1nX59-ES7sPONbFXXiNPTg6uA/edit?usp=sharing)
