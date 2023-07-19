@@ -14,4 +14,5 @@ title: Day 3 Functions, Modularity
   : [Proposal Document](https://docs.google.com/document/d/11TBwAGRlDJgM2Sh149lnjznRf_tPLuh5o1Y4ggepxNQ/edit?usp=sharing)
 
 1:00 -- 2:50
-: **Project**{: .label .label-purple}[Chatbot Project](#)
+: **Project**{: .label .label-purple}[Chatbot Project](https://docs.google.com/presentation/d/1iTY2zoJFcFV7MlEayz9kqNyy64jGabMi-CuCepL-6qM/edit?usp=sharing)
+  : [Starter Code](https://drive.google.com/drive/folders/1qLj0Ek-DsJrLpZpm5a6UiKAFS8R-ZknL?usp=sharing)
