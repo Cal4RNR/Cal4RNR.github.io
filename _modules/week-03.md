@@ -7,6 +7,7 @@ title: Day 3 Functions, Modularity
 
 10:00 -- 10:50
 : **Workshop**{: .label .label-red}[Web Development](https://docs.google.com/presentation/d/1ljiGj0X2DjMKY29h0u3ulu4cWEy-AD879qijfrMgT08/edit?usp=sharing)
+  : [Starter Code](https://drive.google.com/drive/folders/1JQa5Wl_Ow265VlSCBRxkqhnBhR80c86b?usp=sharing)
 
 11:00 -- 11:50
 : **Project**{: .label .label-purple}[Final Project Group Meeting](#)
