@@ -71,7 +71,7 @@ schedule:
       - name: Python Environments
         start: 9:00 AM
         end: 9:50 AM
-      - name: Breaking Python
+      - name: Project Group Meeting
         start: 10:00 AM
         end: 10:50 AM
       - name: College Workshop
