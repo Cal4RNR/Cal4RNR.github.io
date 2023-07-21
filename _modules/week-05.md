@@ -6,7 +6,7 @@ title: Day 5 Final Project Demo, Conclusion
 : **Project**{: .label .label-purple}[Final Project Group Meeting](#)
 
 11:00 -- 11:50
-: **Workshop**{: .label .label-red}[Computer Science Exploration Workshop](#)
+: **Workshop**{: .label .label-red}[Computer Science Exploration Workshop](https://docs.google.com/presentation/d/1GZwIG6xjo4dON6exzxXj8neBXo_AGoIKXPvlM_PoFJ0/edit?usp=sharing)
 
 1:00 -- 1:50
 : **Project**{: .label .label-purple}[Project Group Meeting](#)
