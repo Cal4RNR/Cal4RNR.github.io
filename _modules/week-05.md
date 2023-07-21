@@ -13,5 +13,4 @@ title: Day 5 Final Project Demo, Conclusion
 
 2:00 -- 2:50
 : **Conclusion**{: .label .label-red}[Project Demo, Conclusion](https://tinyurl.com/pr23-personalproj)
-  : [Final Feedback](https://tinyurl.com/pr23-finalref)
-  : [Submit Slides](https://tinyurl.com/pr23-finalproj)
+  : [Final Feedback](https://tinyurl.com/pr23-finalref), [Submit Slides](https://tinyurl.com/pr23-finalproj)
